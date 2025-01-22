@@ -7,7 +7,7 @@ let name = "Yogesh"
 
 /*
 1.number --> 2 to the power 53
-2.bigint
+2.bigint=
 3.String = ""
 4.boolean = true / false
 5.null - standalone value and also datatypes which is empty 
